@@ -1,0 +1,6 @@
+@_MicroserviceСompositeSC_HostAddress = http://localhost:5080
+
+GET {{_MicroserviceСompositeSC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
