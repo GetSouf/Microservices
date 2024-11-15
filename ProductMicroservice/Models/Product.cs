@@ -7,7 +7,8 @@
         public float Price { get; set; }
         public int Rating { get; set; }
         public long CategoryId { get; set; }
-        public long ProviderId {  get; set; }
+        public long ProviderId { get; set; }
+        public long size { get; set; }
 
     }
 }

@@ -8051,11 +8051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\CategoryMicroservice\\CategoryMicroservice.csproj",
+      "projectUniqueName": "C:\\Microservices\\CategoryMicroservice\\CategoryMicroservice.csproj",
       "projectName": "CategoryMicroservice",
-      "projectPath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\CategoryMicroservice\\CategoryMicroservice.csproj",
+      "projectPath": "C:\\Microservices\\CategoryMicroservice\\CategoryMicroservice.csproj",
       "packagesPath": "C:\\Users\\retarded\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\CategoryMicroservice\\obj\\",
+      "outputPath": "C:\\Microservices\\CategoryMicroservice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\retarded\\AppData\\Roaming\\NuGet\\NuGet.Config",

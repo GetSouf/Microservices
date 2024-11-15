@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj": {}
+    "C:\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj": {
+    "C:\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj",
+        "projectUniqueName": "C:\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj",
         "projectName": "ProviderMicroservice",
-        "projectPath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj",
+        "projectPath": "C:\\Microservices\\ProviderMicroservice\\ProviderMicroservice.csproj",
         "packagesPath": "C:\\Users\\retarded\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\ProviderMicroservice\\obj\\",
+        "outputPath": "C:\\Microservices\\ProviderMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\retarded\\AppData\\Roaming\\NuGet\\NuGet.Config",

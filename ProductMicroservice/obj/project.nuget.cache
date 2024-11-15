@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KvZi518bRqH/d+XRMqxmyrICDVdVAk83sC7fHYeiiemxC44V+Hf/s08K+u6M0rhJIQ0CQX5jLvs3naVj2n2NgA==",
+  "dgSpecHash": "6lMLPVnyTFWXyxN74ZxjXDbbgOChdIYYbDbtzJhRJDcuLlzf3Y5mQAE2oPY8S15DnZfxkmOjIv6OvnT4xteD/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj",
+  "projectFilePath": "C:\\Microservices\\ProductMicroservice\\ProductMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\retarded\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\retarded\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
