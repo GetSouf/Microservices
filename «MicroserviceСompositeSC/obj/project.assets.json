@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\«MicroserviceСompositeSC\\«MicroserviceСompositeSC.csproj",
+      "projectUniqueName": "C:\\Microservices\\«MicroserviceСompositeSC\\«MicroserviceСompositeSC.csproj",
       "projectName": "«MicroserviceСompositeSC",
-      "projectPath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\«MicroserviceСompositeSC\\«MicroserviceСompositeSC.csproj",
+      "projectPath": "C:\\Microservices\\«MicroserviceСompositeSC\\«MicroserviceСompositeSC.csproj",
       "packagesPath": "C:\\Users\\retarded\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\retarded\\Documents\\study\\5 sem\\5 сем\\ТП\\лр2\\Microservices\\«MicroserviceСompositeSC\\obj\\",
+      "outputPath": "C:\\Microservices\\«MicroserviceСompositeSC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\retarded\\AppData\\Roaming\\NuGet\\NuGet.Config",
